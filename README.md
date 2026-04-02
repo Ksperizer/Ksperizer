@@ -74,17 +74,19 @@ En parallèle, je suis formateur et mentor pour des étudiants B1→B2 à Ynov T
 
 - Construction d'un SaaS ciblant les artisans et le secteur du BTP
 - Déploiement et hardening VPS (Nginx, Docker, audit Lynis)
-- Mentoring étudiant en Go, C#, infra et gestion de projet
+- Mentoring étudiant en Go, C#, JavaScript, Python, infra et gestion de projet
 
 ---
-
 ## Stats GitHub
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=Ksperizer&show_icons=true&theme=dark&hide_border=true&count_private=true" height="160"/>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Ksperizer&layout=compact&theme=dark&hide_border=true&langs_count=8" height="160"/>
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Ksperizer&theme=github_dark" />
 </p>
 
+<p align="center">
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=Ksperizer&theme=github_dark&langs_count=10" height="180"/>
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=Ksperizer&theme=github_dark&langs_count=10" height="180"/>
+</p>
 ---
 
 <p align="center">
