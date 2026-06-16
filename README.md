@@ -1,7 +1,7 @@
 <h1 align="center">Salut, moi c'est Kevin </h1>
 
 <p align="center">
-  <b>Développeur Full-Stack · Formateur @ Ynov Toulouse · Auto-entrepreneur</b><br/>
+  <b>Développeur Full-Stack · Formateur @ToulouseYnovCampus· Auto-entrepreneur</b><br/>
   Passionné par la conception de solutions durables, de l'infra au produit.
 </p>
 
